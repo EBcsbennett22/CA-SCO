@@ -14,7 +14,7 @@ import json
 # ---- CONFIG ----
 
 PDF_PATH = "/content/drive/MyDrive/CASCO_PDFs"  # change to your mounted drive or folder in Colab
-OPENAI_API_KEY='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'
+OPENAI_API_KEY=''
 FLAVOR = "stream"  # or "lattice"
 EDGE_TOL = 500     # for stream mode tuning
 client = OpenAI(api_key=OPENAI_API_KEY)
