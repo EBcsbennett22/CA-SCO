@@ -1,0 +1,7 @@
+/venv/
+/all-MiniLM-L6-v1/
+/scratch/
+
+.env
+/.vscode/
+/__pycache__/
